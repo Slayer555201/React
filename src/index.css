@@ -582,6 +582,5 @@ caption {
     width: 100%; } }
 .who-made-this { 
     position: relative;
-    right:  -100%;
     bottom: 100%;
 }
