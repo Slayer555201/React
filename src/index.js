@@ -8,7 +8,7 @@ import Autorization from './Autorization';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Autorization/>
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
